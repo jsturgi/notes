@@ -1,0 +1,2 @@
+find a way to use css variables in a non demo way 
+- red/black counter app for if something is odd or even?

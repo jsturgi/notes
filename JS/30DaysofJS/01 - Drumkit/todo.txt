@@ -1,0 +1,1 @@
+Add audiowave animation to each button instead of glow

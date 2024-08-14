@@ -1,0 +1,2 @@
+Fix glitch when degrees exceed 60 and it goes back to 0
+Enhancement: Change to digital style instead of hands with a flipping animation for each 'hand' (hour second minute)
