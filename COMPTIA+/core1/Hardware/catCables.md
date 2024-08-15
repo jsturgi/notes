@@ -1,5 +1,5 @@
 ### Summary
-A type of twisted pair cable u sed for Ethernet and other  network physical layers.
+A type of twisted pair cable used for Ethernet and other  network physical layers.
 
 ### Common Types of Cat Tables
 ## Cat 5
